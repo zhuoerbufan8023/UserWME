@@ -25,4 +25,3 @@ python 03train_Map_KAN_VMamba.py
 ```bash
 python 03predict_Map_KAN_VMamba.py
 ```
-## Data
